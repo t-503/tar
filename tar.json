@@ -6,5 +6,12 @@
     "tags": ["free", "image", "ai", "generator"],
     "description": "Create stunning images using AI technology instantly and for free",
     "icon": "🧠"
+  },  {
+    "title": "Image Generator",
+    "url": "https://www.craiyon.com",
+    "category": "img",
+    "tags": ["free", "image", "generator"],
+    "description": "Create stunning images using AI technology instantly and for free",
+    "icon": "🧠"
   }
 ]
