@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Free AI Image Generator",
+    "url": "https://example.com/ai-image",
+    "category": "AI",
+    "tags": ["free", "image", "ai"],
+    "description": "Create images using AI instantly",
+    "icon": "🧠"
+  },
+  {
+    "title": "Cool Math Games",
+    "url": "https://coolmathgames.com",
+    "category": "Games",
+    "tags": ["fun", "math", "kids"],
+    "description": "Fun and educational games",
+    "icon": "🎮"
+  }
+]
